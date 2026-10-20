@@ -1,0 +1,134 @@
+[
+  {
+    "id": "CU25001",
+    "name": "Aarav Sharma",
+    "department": "Computer Science",
+    "marks": 96.5
+  },
+  {
+    "id": "CU25002",
+    "name": "Ananya Verma",
+    "department": "Data Science",
+    "marks": 93
+  },
+  {
+    "id": "CU25003",
+    "name": "Rohan Mehta",
+    "department": "Computer Science",
+    "marks": 91.25
+  },
+  {
+    "id": "CU25004",
+    "name": "Ishita Gupta",
+    "department": "Information Technology",
+    "marks": 88
+  },
+  {
+    "id": "CU25005",
+    "name": "Kabir Singh",
+    "department": "Data Science",
+    "marks": 86.5
+  },
+  {
+    "id": "CU25006",
+    "name": "Meera Nair",
+    "department": "Electronics",
+    "marks": 84
+  },
+  {
+    "id": "CU25007",
+    "name": "Vikram Rao",
+    "department": "Mechanical",
+    "marks": 82.75
+  },
+  {
+    "id": "CU25008",
+    "name": "Sanya Kapoor",
+    "department": "Information Technology",
+    "marks": 79
+  },
+  {
+    "id": "CU25009",
+    "name": "Arjun Patel",
+    "department": "Computer Science",
+    "marks": 77.5
+  },
+  {
+    "id": "CU25010",
+    "name": "Diya Malhotra",
+    "department": "Data Science",
+    "marks": 76
+  },
+  {
+    "id": "CU25011",
+    "name": "Yash Chauhan",
+    "department": "Electronics",
+    "marks": 73.5
+  },
+  {
+    "id": "CU25012",
+    "name": "Neha Joshi",
+    "department": "Mechanical",
+    "marks": 71
+  },
+  {
+    "id": "CU25013",
+    "name": "Aditya Kumar",
+    "department": "Computer Science",
+    "marks": 68
+  },
+  {
+    "id": "CU25014",
+    "name": "Priya Das",
+    "department": "Information Technology",
+    "marks": 66.5
+  },
+  {
+    "id": "CU25015",
+    "name": "Harsh Thakur",
+    "department": "Electronics",
+    "marks": 64
+  },
+  {
+    "id": "CU25016",
+    "name": "Tanvi Bansal",
+    "department": "Data Science",
+    "marks": 61
+  },
+  {
+    "id": "CU25017",
+    "name": "Manav Arora",
+    "department": "Mechanical",
+    "marks": 58.5
+  },
+  {
+    "id": "CU25018",
+    "name": "Riya Saxena",
+    "department": "Computer Science",
+    "marks": 55
+  },
+  {
+    "id": "CU25019",
+    "name": "Dev Khanna",
+    "department": "Electronics",
+    "marks": 52
+  },
+  {
+    "id": "CU25020",
+    "name": "Simran Kaur",
+    "department": "Mechanical",
+    "marks": 44.5
+  },
+  {
+    "id": "CU25021",
+    "name": "Karan Bhatia",
+    "department": "Information Technology",
+    "marks": 91.25
+  },
+  {
+    "id": "CU25022",
+    "name": "Pooja Reddy",
+    "department": "Data Science",
+    "marks": 89.5
+  }
+]
